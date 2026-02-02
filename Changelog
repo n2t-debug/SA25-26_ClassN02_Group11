@@ -1,1 +1,15 @@
+# Changelog - QuickShip - Logistic Management Platform Project
 
+## [1.0.0] - Tuần 7 & 8: Hoàn thiện & Kiểm thử
+- **Tracking**: Mở trang tra cứu cho khách hàng (nhập mã -> xem trạng thái).
+- **Final Touch**: Fix lỗi giao diện trên điện thoại và triển khai lên Vercel.
+
+## [0.2.0] - Tuần 4 & 6: Chức năng Tài xế & Ảnh
+- **Task List**: Tài xế đăng nhập thấy danh sách đơn hàng của mình.
+- **Status Update**: Nút "Bắt đầu giao" và "Đã giao".
+- **PoD**: Tích hợp mở camera và lưu ảnh khi bấm "Đã giao".
+
+## [0.1.0] - Tuần 1 & 2: Quản trị & Cơ sở dữ liệu
+- **Database**: Thiết lập các bảng đơn giản (Đơn hàng, Tài xế).
+- **Admin CRUD**: Màn hình tạo đơn hàng và gán tài xế.
+- **Auth**: Đăng nhập cơ bản cho Admin và Tài xế.
