@@ -1,1 +1,16 @@
+# 📦 QuickShip - Logistics Management Platform
+
+QuickShip là một nền tảng quản lý vận chuyển tinh gọn dành cho các doanh nghiệp logistics nhỏ. 
+Hệ thống cho phép tối hóa quy trình từ khâu tạo đơn, điều phối tài xế đến tra cứu hành trình thời gian thực.
+
+## 🚀 Key Features
+- **Admin Dashboard**: Quản lý đơn hàng, gán tài xế, theo dõi trạng thái tổng quát.
+- **Driver Portal (Mobile Web)**: Giao diện tối ưu cho điện thoại để tài xế cập nhật trạng thái và chụp ảnh xác nhận (Proof of Delivery).
+- **Public Tracking**: Trang tra cứu công khai cho khách hàng thông qua mã Tracking ID.
+
+## 🛠 Tech Stack
+- **Frontend**: Next.js 14, Tailwind CSS, shadcn/ui.
+- **Backend**: Next.js API Routes (Serverless).
+- **Database & Auth**: Supabase (PostgreSQL).
+- **Storage**: Supabase Storage (Lưu trữ ảnh xác nhận giao hàng).
 
